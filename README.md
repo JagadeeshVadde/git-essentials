@@ -15,3 +15,8 @@ git commands for daily development
 * In order to clone any git repository, one should have git installed on the machine.
 * Once the git is installed, confirm the installation by running the command **git --version**
 * **git clone &lt;repository-name&gt;**
+```
+Example:
+To clone the git-essentials repository use the below command
+git clone https://github.com/JagadeeshVadde/git-essentials.git
+```
